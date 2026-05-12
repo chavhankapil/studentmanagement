@@ -1,0 +1,2 @@
+# studentmanagement
+practice ci cd
