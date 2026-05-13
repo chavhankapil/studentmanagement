@@ -1,3 +1,2 @@
-2026/05/13-00:36:38.085 1ff4 Reusing MANIFEST C:\Users\Kapil\Desktop\Ethans\springboot project\.metadata\.plugins\org.eclipse.swt\EBWebView\Default\Local Storage\leveldb/MANIFEST-000001
-2026/05/13-00:36:38.106 1ff4 Recovering log #3
-2026/05/13-00:36:38.112 1ff4 Reusing old log C:\Users\Kapil\Desktop\Ethans\springboot project\.metadata\.plugins\org.eclipse.swt\EBWebView\Default\Local Storage\leveldb/000003.log 
+2026/05/13-11:15:40.671 1e1c Creating DB C:\Users\Kapil\Desktop\Ethans\springboot project\.metadata\.plugins\org.eclipse.swt\EBWebView\Default\Local Storage\leveldb since it was missing.
+2026/05/13-11:15:40.819 1e1c Reusing MANIFEST C:\Users\Kapil\Desktop\Ethans\springboot project\.metadata\.plugins\org.eclipse.swt\EBWebView\Default\Local Storage\leveldb/MANIFEST-000001

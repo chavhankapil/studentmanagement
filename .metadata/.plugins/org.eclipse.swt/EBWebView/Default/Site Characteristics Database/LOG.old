@@ -1,3 +1,5 @@
-2026/05/12-23:17:18.829 5218 Reusing MANIFEST C:\Users\Kapil\Desktop\Ethans\springboot project\.metadata\.plugins\org.eclipse.swt\EBWebView\Default\Site Characteristics Database/MANIFEST-000001
-2026/05/12-23:17:18.848 5218 Recovering log #3
-2026/05/12-23:17:18.849 5218 Reusing old log C:\Users\Kapil\Desktop\Ethans\springboot project\.metadata\.plugins\org.eclipse.swt\EBWebView\Default\Site Characteristics Database/000003.log 
+2026/05/13-11:15:33.544 1f20 Log #3: 1 ops saved to Table #4 OK
+2026/05/13-11:15:33.570 1f20 Archiving C:\Users\Kapil\Desktop\Ethans\springboot project\.metadata\.plugins\org.eclipse.swt\EBWebView\Default\Site Characteristics Database/000003.log: OK
+2026/05/13-11:15:33.571 1f20 Table #4: 1 entries OK
+2026/05/13-11:15:33.583 1f20 Archiving C:\Users\Kapil\Desktop\Ethans\springboot project\.metadata\.plugins\org.eclipse.swt\EBWebView\Default\Site Characteristics Database/MANIFEST-000001: OK
+2026/05/13-11:15:33.602 1f20 **** Repaired leveldb C:\Users\Kapil\Desktop\Ethans\springboot project\.metadata\.plugins\org.eclipse.swt\EBWebView\Default\Site Characteristics Database; recovered 1 files; 130 bytes. Some data may have been lost. ****
