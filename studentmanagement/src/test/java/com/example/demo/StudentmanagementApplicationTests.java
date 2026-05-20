@@ -9,5 +9,5 @@ class StudentmanagementApplicationTests {
 	@Test
 	void contextLoads() {
 	}
-
+echo "hello"
 }
