@@ -3,11 +3,8 @@ pipeline {
 
     environment {
         IMAGE_NAME = "kapilchavhan/student-app"
+         KUBECONFIG = "/var/lib/jenkins/.kube/config"
     }
-    environment {
-    KUBECONFIG = "/var/lib/jenkins/.kube/config"
-}
-    
 
     stages {
 
