@@ -49,8 +49,10 @@ pipeline {
 
         stage('Deploy to Kubernetes') {
             steps {
-                sh 'kubectl rollout restart deployment student-app-deployment'
-            }
+  sh '''
+                export KUBECONFIG=/home/ec2-user/.kube/config
+                kubectl rollout restart deployment student-app-deployment
+                '''            }
         }
     }
 
