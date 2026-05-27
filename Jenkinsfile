@@ -49,10 +49,10 @@ pipeline {
 
         stage('Deploy to Kubernetes') {
             steps {
-  sh '''
-                export KUBECONFIG=/home/ec2-user/.kube/config
-                kubectl rollout restart deployment student-app-deployment
-                '''            }
+                sh '''
+        kubectl --kubeconfig /var/lib/jenkins/.kube/config rollout restart deployment student-app-deployment
+        '''
+          }
         }
     }
 
